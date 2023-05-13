@@ -22,6 +22,7 @@ jobs:
         with:
           php-version: '8.2'
           tools: composer
-      - run:
+      - run: |
           composer install --no-progress
+          find ./app -name "*.php" -not -path "*/vendor/*" -exec php -l {} \;
           ./vendor/bin/pint --test
