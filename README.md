@@ -6,6 +6,7 @@ A link shortener and to-do app written with Laravel to try out the framework.
 
 ### Dependencies
 
+-   Docker
 -   Visual Studio Code with Dev Containers extension.
 
 **Open the project with a [dev container](https://code.visualstudio.com/docs/devcontainers/containers) and follow these steps:**
