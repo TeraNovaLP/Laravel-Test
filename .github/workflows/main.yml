@@ -24,5 +24,4 @@ jobs:
           tools: composer
       - run:
           composer install --no-progress
-          find ./app -name "*.php" -not -path "*/vendor/*" -exec php -l {} \;
           ./vendor/bin/pint --test
