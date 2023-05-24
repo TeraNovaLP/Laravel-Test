@@ -31,5 +31,7 @@ Execute the following command to apply all migrations.
 
 ## Helpful projects
 
+-   [phpstan](https://github.com/phpstan/phpstan)
+-   [setup-php-action](https://github.com/tpetry/laravel-postgresql-enhanced)
 -   [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
 -   [laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced)
