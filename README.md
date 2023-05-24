@@ -28,3 +28,8 @@ Execute the following command to apply all migrations.
 ```sh
 ./artisan migrate
 ```
+
+## Helpful projects
+
+-   [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
+-   [laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced)
